@@ -1,1 +1,45 @@
-Zeki Kayış - 22402230 - Favourite Game: Star Wars
+Zeki Kayış - 22402230 - Favourite Game: Star Warscommit 2b302db7716f84970adf8174fe9f6c650a9e55a2
+Merge: f4b930e f0bfbd3
+Author: Zeki Kayış <kayiszack@gmail.com>
+Date:   Wed Jun 11 15:36:06 2025 +0300
+
+    Merge pull request #1 from Zkinq/new_information
+    
+    Zeki Kayış added favorite game to info.txt
+
+commit f0bfbd353832cf6f564e895871ad9d7a50bbd018
+Author: Zeki Kayış <kayiszack@gmail.com>
+Date:   Wed Jun 11 15:30:42 2025 +0300
+
+    Zeki Kayış added favorite game to info.txt
+
+commit f4b930ee5323c42c59ffd0f4ed908b476fee198d
+Merge: 012da44 45bd2c9
+Author: Zeki Kayış <kayiszack@gmail.com>
+Date:   Wed Jun 11 15:24:05 2025 +0300
+
+    Merge branch 'main' of https://github.com/Zkinq/CS-102-Github-Tutorial-Summer-2025
+
+commit 45bd2c9e4af1042897389693c555d21728cfcead
+Author: Zeki Kayış <kayiszack@gmail.com>
+Date:   Wed Jun 11 15:23:56 2025 +0300
+
+    Removed duplicate info.txt
+
+commit 012da440affb77f1df457bd40963e3ff3d0f2316
+Author: Zeki Kayış <kayiszack@gmail.com>
+Date:   Wed Jun 11 15:20:09 2025 +0300
+
+    Zeki Kayış updated info.txt
+
+commit 0a2beae0f4361c3809bffe3d75a04dcc8f9fb487
+Author: Zeki Kayış <kayiszack@gmail.com>
+Date:   Wed Jun 11 15:13:07 2025 +0300
+
+    Zeki Kayış updated info.txt
+
+commit 25dddde716b90c1b0bf6fb1cff396b15210a1c79
+Author: Zeki Kayış <kayiszack@gmail.com>
+Date:   Wed Jun 11 14:43:31 2025 +0300
+
+    Initial commit
